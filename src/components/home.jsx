@@ -26,9 +26,9 @@ function Home() {
 
           <div className="ml-5 mt-8">
             <div class="flex flex-row">
-              <div className="mr-2 opacity-75 hover:opacity-100">
+              <div className="mr-2 opacity-75 hover:opacity-100 ">
                 <svg
-                  className="hover:shadow-lg"
+                  className=""
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
                   height="20"
@@ -41,7 +41,7 @@ function Home() {
               </div>
               <div className="mr-2 opacity-75 hover:opacity-100">
                 <svg
-                  className="hover:shadow-lg"
+                  className=""
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
                   height="20"
@@ -54,7 +54,7 @@ function Home() {
               </div>
               <div className="mr-2 opacity-75 hover:opacity-100">
                 <svg
-                  className="hover:shadow-lg"
+                  className=""
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
                   height="20"
@@ -67,7 +67,7 @@ function Home() {
               </div>
               <div className="mr-2 opacity-75 hover:opacity-100">
                 <svg
-                  className="hover:shadow-lg"
+                  className=""
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
                   height="20"
