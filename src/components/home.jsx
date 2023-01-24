@@ -12,7 +12,7 @@ function Home() {
       <div class="flex-initial w-7/12 ml-5">
         <div className="flex flex-col">
           <div className="m-5">
-            <p className="font-mono font-semibold text-5xl ">Volkan Öztoklu</p>
+            <p className="font-mono font-semibold text-5xl ">Volka_ztoklu</p>
           </div>
 
           <div className="mx-5">
