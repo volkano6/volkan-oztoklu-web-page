@@ -1,4 +1,5 @@
 function Home() {
+  
   return (
     <div className="flex">
       <div class="flex-none w-2/12 ml-20 mt-5">
